@@ -19,10 +19,9 @@ Through the user-friendly and efficient system of the JOB BOARD PLATFORM, the ov
 
 To develop a JOB BOARD PLATFORM with a comprehensive and efficient solution that will help to improve the hiring process for both employers and job seekers with the following features:
 1. Design a user-friendly interface for employers to be able to post, modify, or delete a job post in one click.
-2. Build a solid Application Tracking System (ATS) that enhances the tracking and management of the candidate applications by the employers throughout the recruitment process.
-3. Offer all the necessary resources to job seekers that would enable them to post descriptions of themselves such as writing of resumes, skills, and previous work experience.
-4. Provide advanced effective search and filter tools that allow job seekers to easily select matching jobs based on location, industry, type of position, and other criteria.
-5. Develop individual interfaces where employers can track job posting performance and monitor candidates while job seekers also have application panels to work with applications as well as opportunities and to receive updates.
+2. Offer all the necessary resources to job seekers that would enable them to post descriptions of themselves such as writing of resumes, skills, and previous work experience.
+3. Provide advanced effective search and filter tools that allow job seekers to easily select matching jobs based on location, industry, type of position, and other criteria.
+4. Develop individual interfaces where employers can track job posting performance and monitor candidates while job seekers also have application panels to work with applications as well as opportunities and to receive updates.
 
 ## D. Business Benefits:
 1. By automating various aspects of the hiring process, tracking, communication, and filtering of candidates, the platform will greatly reduce the time and effort that employers spend compiling, sorting, and sifting through and communicating with candidates.
